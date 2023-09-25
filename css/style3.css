@@ -1,0 +1,27 @@
+body {
+    background-color: hsl(19, 76%, 92%);
+}
+ul {
+    list-style-type: none ;
+}
+a {
+    color: rgb(129, 125, 125);
+    text-decoration: none;
+    font-size: 40px;
+    font-family: monospace;
+}
+a:hover{
+    color: brown;
+    font-size: 50px;
+}
+h1{
+    font-family:cursive;
+    font-size: 32px;
+    color: rgb(146, 68, 68);
+    text-align: center;
+}
+h2{
+    font-family: cursive;
+    color: rgb(99, 85, 85);
+    text-align: center;   
+}
